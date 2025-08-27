@@ -7,7 +7,7 @@ by created help of devtown 5 days bootcamp
 
 The Disease Detector is a machine learning project designed to predict diseases based on patient health data. The model is trained using classification techniques to analyze symptoms/medical attributes and provide predictions that can assist in healthcare diagnostics.
 
-This project is implemented in Python with Jupyter Notebook and leverages machine learning libraries for training and evaluation.
+This project is implemented in Python with colab Notebook and leverages machine learning libraries for training and evaluation.
 
 🚀 Features
 
@@ -41,7 +41,7 @@ Train the model and generate predictions.
 
 👨‍💻 Author
 
-Ishan Mishra 💼 LinkedIn - www.linkedin.com/in/vinayak-bhise-83351a277 📧 Email: vbhise956@gmail.com
+vinayak Bhise 💼 LinkedIn - www.linkedin.com/in/vinayak-bhise-83351a277 📧 Email: vbhise956@gmail.com
 
 About
 No description, website, or topics provided.
